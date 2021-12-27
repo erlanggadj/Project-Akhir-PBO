@@ -12,4 +12,4 @@ Program Sistem Koperasi ini dapat melakukan pembuatan akun baik individu maupun 
 
 ER Diagram
 
-![ER DIAGRAM](https://user-images.githubusercontent.com/83545747/147442082-368d6d93-d936-48ff-a59a-172e65b5e6f3.png)
+![ERD](https://user-images.githubusercontent.com/83545747/147446833-13de780f-f7f6-4130-a82b-c45bae485d1d.jpeg)
