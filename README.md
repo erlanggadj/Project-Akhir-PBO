@@ -10,7 +10,7 @@ Penjelasan Program<br />
 Program Sistem Koperasi ini dapat melakukan pembuatan akun baik individu maupun perusahaan,setiap akun dapat melakukan penambahan rekening dan juga melakukan transaksi seperti tambah saldo serta penarikan saldo<br />
 
 ![Project Akhir PBO](https://user-images.githubusercontent.com/83545747/147446895-eedc57cf-325a-4ebe-9404-dbbcfaceb150.png)
-![Project Akhir PBO](https://user-images.githubusercontent.com/83545747/147446904-26b50ca4-9711-485e-85a9-b42c2dd610b5.png)
+![Project Akhir PBO 2](https://user-images.githubusercontent.com/83545747/147446983-0ae4e4f8-3477-4de7-8ff8-0401cbb42df2.png)
 
 ER Diagram
 
