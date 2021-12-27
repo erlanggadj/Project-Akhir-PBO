@@ -2,9 +2,9 @@
 # ProjectAkhirPBO
 Project Akhir PBO 2021
 
-1.Annisa Alwidia Arsyanti 2017051034 (Membuat Form Perusahaan)<br />
-2.Erlangga Dwi Jiwantoro 2017051020 (Membuat JavaFx Form Nasabah)<br />
-3.Rayhan Akbar Kurniawan 2017051071 (Membuat class dan Modelling database + server)<br />
+1.Annisa Alwidia Arsyanti 2017051034 (Membuat class)<br />
+2.Erlangga Dwi Jiwantoro 2017051020 (Membuat Form JavaFX)<br />
+3.Rayhan Akbar Kurniawan 2017051071 (Modelling database + server)<br />
 
 Penjelasan Program<br />
 Program Sistem Koperasi ini dapat melakukan pembuatan akun baik individu maupun perusahaan,setiap akun dapat melakukan penambahan rekening dan juga melakukan transaksi seperti tambah saldo serta penarikan saldo<br />
